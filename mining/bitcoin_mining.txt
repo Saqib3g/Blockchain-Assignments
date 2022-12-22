@@ -1,0 +1,18 @@
+To begin with, it's important to understand that bitcoin is a decentralized digital currency that is based on a distributed ledger technology called 
+the blockchain. The blockchain is a public record of all bitcoin transactions that have ever taken place. It is maintained by a network of computers, 
+called nodes, that are spread across the world.
+Mining is the process of verifying and adding transactions to the blockchain. When a user sends a transaction, it is broadcast to the network and added 
+to a pool of unconfirmed transactions. Miners take transactions from this pool and try to create a new block that includes these transactions.
+To create a new block, miners must solve a complex mathematical problem. This problem is designed to be difficult to solve, but easy to verify. 
+The problem is based on the data in the block, and it involves finding a specific numerical value, called a nonce, that meets certain requirements.
+
+When a miner successfully solves a block, they are rewarded with a small amount of bitcoin. The reward is designed to be an incentive for miners to 
+continue contributing their computational resources to the network.
+
+The process of mining requires a lot of computational power and energy. Miners use specialized computers, called mining rigs, to solve the mathematical 
+problems. These computers are specifically designed to be fast and efficient at solving the problems, and they consume a lot of electricity in the
+process.
+
+As more bitcoin are mined, the difficulty of the mathematical problems that need to be solved increases, which requires more computational power to solve. 
+This helps to ensure that the rate at which new bitcoin are created remains consistent over time, despite the increasing number of miners participating in 
+the network.
